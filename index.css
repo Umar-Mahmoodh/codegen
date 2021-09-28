@@ -1,0 +1,29 @@
+.counter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.count-det {
+  text-align: center;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.count-det .head {
+  font-size: 60px;
+  color: #1c8fc7;
+  font-weight: bolder;
+}
+
+.count-det .head .sub {
+  font-size: 20px;
+  color: #757575;
+}
+
+.blue-line {
+  height: 120px;
+  background-color: #1b84ff;
+  border: solid 3px #1b84ff;
+  border-radius: 50px;
+}
